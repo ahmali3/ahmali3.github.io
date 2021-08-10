@@ -1,5 +1,4 @@
 ## Portfolio [Progressive Web App]
-#### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
 
 ### TECHNOLOGIES USED
 * HTML5
